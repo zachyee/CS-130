@@ -1,1 +1,1 @@
-# CS-130
+# CS-130Course-long project: Rockmateshttps://github.com/kchui9172/CS-130-Project
